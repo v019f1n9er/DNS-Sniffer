@@ -1,3 +1,4 @@
+#!/bin/bash
 from scapy.all import *
 from collections import Counter
 
